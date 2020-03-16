@@ -1,3 +1,9 @@
 [submodule "entt"]
 	path = entt
 	url = https://github.com/skypjack/entt.git
+[submodule "setInterval"]
+	path = setInterval
+	url = https://github.com/stefanofiorentino/setInterval.git
+[submodule "mosquitopp_client"]
+	path = mosquitopp_client
+	url = https://github.com/stefanofiorentino/mosquitopp_client
